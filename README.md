@@ -1,4 +1,4 @@
-git clone https://github.com/hopingboyz/vps-deploy
+git clone https://github.com/NeelAhuja1234/VPS-BOT
 
 cd vps-deploy
 
