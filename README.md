@@ -13,7 +13,7 @@ pip install -r requirements.txt
 sudo nano /etc/systemd/system/unixbot.service
 
 [Unit]
-Description=UnixBot Discord Bot
+Description=NCCLOUD Discord Bot
 After=network.target
 
 [Service]
